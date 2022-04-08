@@ -1,2 +1,2 @@
 # validaciones-frontend
-Práctica de formularios con Fundación Formar
+Práctica de validación de formularios con Fundación Formar
